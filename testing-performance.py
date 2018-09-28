@@ -1,17 +1,8 @@
 
 # coding: utf-8
-
-
-
-
 from sklearn import datasets
 
 iris = datasets.load_iris()
-
-
-
-
-
 
 import numpy as np
 import matplotlib.pyplot as plt
